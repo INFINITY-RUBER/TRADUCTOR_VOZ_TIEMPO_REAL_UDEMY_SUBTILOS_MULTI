@@ -5,7 +5,7 @@
 
 - ## Primero debe tener en su navegador chrome instalado la extension de **"Google Traductor"**  [ver link](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/RK%3D2/RS%3DBBFW_pnWkPY0xPMYsAZI5xOgQEE-)
 
-- ## Segundo **bajar** el repositorio y **Descomprimirlo** en su PC  https://github.com/INFINITY-RUBER/TRADUCTOR_VOZ_TIEMPO_REAL_UDEMY/archive/refs/heads/master.zip
+- ## Segundo **bajar** el repositorio y **Descomprimirlo** en su PC  https://github.com/INFINITY-RUBER/TRADUCTOR_VOZ_TIEMPO_REAL_UDEMY_SUBTILOS_MULTI/archive/refs/heads/main.zip
 
 - ## Tercero agregar la extension a su navegador chrome, en su navegador ir a (**chrome://extensions/**) habilitar el **Modo de desarrollador** --> dar click en **Cargar extension sin empaquetar** 
 <div align="center">
@@ -32,27 +32,23 @@
 
 # MODO DE USAR EN UDEMY
 
-- ## En su curso de Udemy debe habiliar  la **Transcripción**
+- ## En su curso de Udemy debe habiliar  los **subtitulos**
 
+- ## coloque los subtitulos en el idioma deseado en el cual quiere escuchar el curso
 <div align="center">
-  <img src="imagenes/trancripcion.png">  
+  <img src="imagenes/subtitulos.png">  
 </div>
 
-- ## Tradusca la trancripcion a su idioma deseado con el traductor de google, dando click secundario en la trancripcion **traducir a español** por ejemplo (su extension de google debe configurarla a su idioma deseado)
 
-<div align="center">
-  <img src="imagenes/traducion.png">  
-</div>
-
-- ## No olvide dejar el **Desplazamiento automatico**  habilitado
-
-## y finalmente hacer click a su extension de **traducion de voz** que acabo de instalar en chrome 
 
 <div align="center">
   <img src="imagenes/final.png">  
 </div>
 
+
+
 # al dar click comensara a eschuchar la voz de google y su bot leera la trancripcion en tiempo real, puede pausar el video y para mejor experiencia puede bajar volumen o mute el video  y poner su video en pantalla completa,
+
 
 ## Si desea puede ver lo que lee el bot de google en su consola de navegador precionando **F12**  o dar click secundario en el navegador en **inspeccionar**
 
